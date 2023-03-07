@@ -1,0 +1,26 @@
+.menubar
+{
+  background: rgb(240, 244, 9);  
+}
+ul
+{
+  margin: 0;
+  padding: 0;
+  text-align: center;  
+}
+ul li
+{
+  padding: 20px;
+  padding-left: 100px;
+  display: inline-block;
+}
+ul li a
+{
+    font-family: fantasy;
+    text-decoration: none;
+    
+}
+ul li :hover
+{
+    background: red;
+}

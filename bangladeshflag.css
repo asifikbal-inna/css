@@ -1,0 +1,22 @@
+.lol
+{
+    width: 600px;
+    height: 350px;
+    background: green;
+    position: relative;
+    
+
+}
+.lol1
+{
+    background: red;
+    width: 180px;
+    height: 180px;
+    position: absolute;
+    top:0px;
+    right:0px;
+    left:0px;
+    bottom:0px;
+    margin: auto;
+    border-radius:50% ;
+}

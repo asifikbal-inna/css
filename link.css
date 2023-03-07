@@ -1,0 +1,26 @@
+a
+{
+    background: rgb(179, 24, 24);
+    border: 10px;
+    padding: 4px;
+}
+a:link 
+{
+    text-decoration: none;
+    background: black;
+}
+a:visited 
+{
+    background: peru;
+    color: aqua;
+}
+a:hover
+{
+    background: yellow;
+    color: yellow;
+}
+a:active
+{
+    background: aquamarine;
+    color: brown;
+}

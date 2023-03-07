@@ -1,0 +1,33 @@
+img
+{
+    width: 200px;
+    float:right;
+}
+p
+{
+    clear: both;
+}
+.box
+{
+    height: 200px;
+    background: lightpink;
+    width: 25%;
+    float: right;
+
+}
+.box1
+{
+    background: rgb(98, 234, 39);
+}
+.box2
+{
+    background: red;
+}
+.box3
+{
+    background: rgb(25, 21, 21);
+}
+.box4
+{
+    background: rgb(16, 41, 234);
+}
